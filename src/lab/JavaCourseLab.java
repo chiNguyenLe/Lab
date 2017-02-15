@@ -23,6 +23,7 @@ public class JavaCourseLab {
         int a = new Scanner(System.in).nextInt();
         if((a & 1) == 1) System.out.println("The number is odd");
         if((a & 1) == 0) System.out.println("The number is even");
+        System.out.println("Changed");
     }
     
     
